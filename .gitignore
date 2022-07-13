@@ -2,3 +2,5 @@ venv/
 manage.py/
 digital_products/
 .idea/
+Media/
+db.sqlite3/
